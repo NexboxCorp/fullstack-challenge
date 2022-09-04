@@ -13,6 +13,8 @@ Você foi contratado para desenvolver a plataforma que fornecerá toda a intelig
 
 4. Construa um frontend para a interação dos pontos acima. 
 
+5. Lembre-se que é um problema simplificado, para o calculo de distância use distância entre dois pontos em R^2.
+
 #### Exemplo de Base de Dados:
 
 - 'Lanchonete' (x=27, y=12)
