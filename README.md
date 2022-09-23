@@ -11,9 +11,7 @@ Você foi contratado para desenvolver a plataforma que fornecerá toda a intelig
 
 3. Construa um serviço para listar POIs por proximidade. Este serviço receberá uma coordenada X e uma coordenada Y, especificando um ponto de referência, bem como uma distância máxima (d-max) em metros. O serviço deverá retornar todos os POIs da base de dados que estejam a uma distância menor ou igual a d-max a partir do ponto de referência.
 
-4. Construa um frontend para a interação dos pontos acima. 
-
-5. Lembre-se que é um problema simplificado, para o calculo de distância use distância entre dois pontos em R^2.
+4. Lembre-se que é um problema simplificado, para o calculo de distância use distância entre dois pontos em R^2.
 
 #### Exemplo de Base de Dados:
 
