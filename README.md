@@ -38,6 +38,6 @@ Tente escrever o código pensando da forma mais produtiva possível. Um dos noss
 #### Qualidade
 Outro pilar importante da Nexbox, é a qualidade de seus sitemas. Para isso, trabalhamos com testes automatizados. Esperamos que sejam feitos testes automatizados para o backend.
 ### Tecnologias
-Esperamos que seja usada a linguagem python utilizando algum framework web para desenvolvimento e que o frontend seja feito em react. Na Nexbox especificamente trabalhamos com o [DRF](https://www.django-rest-framework.org/), mas sinta-se a vontade para usar outro framework.
+Esperamos que seja usada a linguagem python utilizando algum framework web para desenvolvimento. Na Nexbox especificamente trabalhamos com o [DRF](https://www.django-rest-framework.org/), mas sinta-se a vontade para usar outro framework.
 
  Fonte: https://github.com/backend-br/desafios/tree/master/3%20-%20Hard/Pontos%20de%20Interesse
