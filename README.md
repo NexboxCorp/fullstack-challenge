@@ -59,5 +59,3 @@ Outro pilar importante da Nexbox, é a qualidade de seus sitemas. Para isso, tra
 - Configure o backend para rodar em contêineres Docker. Inclua um Dockerfile e docker-compose.yml para facilitar a execução do ambiente localmente, isolando as dependências do sistema operacional.
 - Crie testes unitários e/ou de integração para o frontend usando uma biblioteca de sua escolha.
 - Adicione mensagens de feedback ao usuário, como notificações de sucesso ou erro ao cadastrar um POI ou realizar uma busca.
-
-Fonte: https://github.com/backend-br/desafios/tree/master/3%20-%20Hard/Pontos%20de%20Interesse
